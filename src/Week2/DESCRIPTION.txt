@@ -1,0 +1,9 @@
+Implemented solutions that work much more faster than straightforward solutions for the following computational
+problems:
+(a) compute a small Fibonacci number;
+(b) compute the last digit of a large Fibonacci number;
+(c) compute a huge Fibonacci number modulo 𝑚;
+(d) compute the last digit of a sum of Fibonacci numbers;
+(e) compute the last digit of a partial sum of Fibonacci numbers;
+(f) compute the greatest common divisor of two integers;
+(g) compute the least common multiple of two integers.
