@@ -53,14 +53,7 @@ public class LargestNumber {
       
         return result;
     }
-    public static boolean isEmptyStringArray(String [] array){
-    	 for(int i=0; i<array.length; i++){ 
-    	  if(array[i]!=null){
-    	   return false;
-    	  }
-    	  }
-    	  return true;
-    	}
+ 
     public static int maxDigit(int digit) {
     	String theMax = Integer.toString(digit);
     	int[] theDigits = new int[theMax.length()]; //the array length will be the length of the string of the integer
